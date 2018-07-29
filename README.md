@@ -9,7 +9,7 @@ Snippets para lembrar trechos que código para o seu projeto.
 
 0. Clone o projeto e execute o comando através do terminal: <code>npm install</code>
 
-1. Crie o Banco de dados no mysql, o que também pode ser mudado. 
+1. Crie o Banco de dados no mysql, o que também pode ser mudado.
 Por padrão, defini como snippet. Mas caso deseje trocar o nome, vá em **config -> database**, e no padrâmetro database, basta trocar o nome do banco.
 
 2. Execute a aplicação com **npm start**. Por padrão, a aplicaçõ esta sendo executada na porta 3000. O que também pode ser modificado na linha 33 do index.js na raíz.
@@ -24,3 +24,5 @@ Por padrão, defini como snippet. Mas caso deseje trocar o nome, vá em **config
 <code>node_modules/.bin/ db:migrate</code><br>
 
 Agora, o software esta pronto para ser usado. Para acessa-lo: http://localhost:3000
+
+Crie a uma conta de um usuário para iniciar sua aventura pela plataforma.
